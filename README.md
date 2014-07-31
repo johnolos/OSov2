@@ -1,4 +1,4 @@
-OSov2
+TDT4186 - Operating systems
 =====
 
-Operating system TDT4186 - Exercise 2
+Repository for TDT4186 - Operating systems
